@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  margin: 50px;
+  padding: 0; 
+   height: 100vh;
+   background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+
+form {
+
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 50px 50px;
+
+}
+input {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 100%;
+  font-size: 20px;
+}
